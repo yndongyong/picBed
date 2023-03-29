@@ -1,0 +1,3 @@
+[submodule "gov_flutter"]
+	path = gov_flutter
+	url = https://git.ybsjyyn.com/lujun/gov_flutter.git
